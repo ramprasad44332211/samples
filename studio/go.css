@@ -1,0 +1,66 @@
+#one {
+    background-color: wheat;
+    background-attachment: fixed;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img {
+    float: left;
+
+}
+
+#two {
+    text-align: center;
+}
+
+img.three {
+    float: right;
+}
+
+#four {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.five {
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.six {
+    display:inline-block;
+    text-transform: uppercase;
+    word-spacing: 50%;
+    text-align: center;
+
+}
+
+#seven {
+    color: purple;
+    text-decoration-color: cornflowerblue;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#eight {
+    text-transform: capitalize;
+    color: royalblue;
+    text-align: justify;
+
+}
+a:link , a:active{
+    color: silver;
+    background-color: wheat;
+    padding: 7px;
+    border-radius: 50px;
+}
+
+a:hover  {
+    color: silver;
+    background-color: rebeccapurple;
+}
